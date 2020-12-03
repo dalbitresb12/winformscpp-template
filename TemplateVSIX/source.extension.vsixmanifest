@@ -5,7 +5,7 @@
         <DisplayName>Windows Forms App Project Template</DisplayName>
         <Description xml:space="preserve">A project template for creating an application with a Windows Forms (WinForms) user interface using C++.</Description>
         <MoreInfo>https://github.com/dalbitresb12/winformscpp-template#readme</MoreInfo>
-        <License>..\LICENSE.txt</License>
+        <License>LICENSE.txt</License>
         <GettingStartedGuide>https://github.com/dalbitresb12/winformscpp-template#readme</GettingStartedGuide>
         <ReleaseNotes>https://github.com/dalbitresb12/winformscpp-template/releases/latest</ReleaseNotes>
         <Icon>ExtensionIcon.ico</Icon>
