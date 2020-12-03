@@ -1,4 +1,4 @@
-# Windows Forms App Project Template
+# Windows Forms App C++ Project Template
 
 ## Why
 
