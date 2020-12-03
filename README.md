@@ -39,7 +39,7 @@ I used their CLI to automate the creation of the ZIP needed by the project to co
 
 ## License
 
-This repository is licensed under the [MIT](LICENSE.txt) license.
+This repository is licensed under the [MIT](TemplateVSIX\LICENSE.txt) license.
 
 [reading]: https://docs.microsoft.com/en-us/visualstudio/ide/specifying-custom-build-events-in-visual-studio?view=vs-2019 "Specify custom build events in Visual Studio"
 
