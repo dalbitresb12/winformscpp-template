@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="WindowsFormsAppProjectTemplate.4932eac4-cbe8-4948-a6e2-2fa8a3563def" Version="1.0.0" Language="en-US" Publisher="Diego Albitres" />
-        <DisplayName>Windows Forms App Project Template</DisplayName>
-        <Description xml:space="preserve">A project template for creating an application with a Windows Forms (WinForms) user interface using C++.</Description>
+        <Identity Id="WindowsFormsAppCppProjectTemplate.4932eac4-cbe8-4948-a6e2-2fa8a3563def" Version="1.0.0" Language="en-US" Publisher="Diego Albitres" />
+        <DisplayName>Windows Forms App C++ Project Template</DisplayName>
+        <Description xml:space="preserve">A project template for creating an application with a Windows Forms (WinForms) user interface using C++ in Visual Studio 2019.</Description>
         <MoreInfo>https://github.com/dalbitresb12/winformscpp-template#readme</MoreInfo>
         <License>LICENSE.txt</License>
-        <GettingStartedGuide>https://github.com/dalbitresb12/winformscpp-template#readme</GettingStartedGuide>
+        <GettingStartedGuide>https://github.com/dalbitresb12/winformscpp-template#how-to-use-it</GettingStartedGuide>
         <ReleaseNotes>https://github.com/dalbitresb12/winformscpp-template/releases/</ReleaseNotes>
         <Icon>ExtensionIcon.ico</Icon>
         <PreviewImage>PreviewImage.png</PreviewImage>
